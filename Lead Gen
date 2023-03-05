@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lead Generation System</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Get High-Quality Leads Now</h1>
+      <p>Enter your contact information below to receive personalized leads for your copywriting business.</p>
+      <form action="submit.php" method="post">
+        <input type="text" name="name" placeholder="Your Name">
+        <input type="email" name="email" placeholder="Your Email">
+        <input type="submit" value="Get Leads Now" class="cta">
+      </form>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
